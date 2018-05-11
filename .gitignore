@@ -1,0 +1,5 @@
+.stack-work/
+figma-to-pdf.cabal
+*~
+export/*.pdf
+export/images/*.jpg
